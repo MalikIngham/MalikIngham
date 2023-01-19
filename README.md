@@ -1,4 +1,4 @@
-### Hi there 👋
+## Always Tinkering.
 
 <!--
 **MalikIngham/MalikIngham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- I'm a software engineer who loves to jump into the deep end and figure things out.
+- 🌱 Currently learning Rust, Typescript and how to build scalable systems in general.
